@@ -1,0 +1,15 @@
+{
+  "serverless": {
+    "provider": "aws",
+    "project": "ng-sls-express",
+    "skipInstall": false,
+    "directory": ".",
+    "lambdaTS": false,
+    "offline": false,
+    "clientProject": "ng-sls-express",
+    "serverless": {
+      "aws": {},
+      "gcloud": {}
+    }
+  }
+}
